@@ -1,1 +1,3 @@
 # StudentManagementSystem
+
+Java + sql server
